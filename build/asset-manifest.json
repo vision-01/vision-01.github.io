@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4788a9f.css",
+    "main.js": "/static/js/main.b3717c88.js",
+    "static/media/alz.jpeg": "/static/media/alz.a6d33de3e0b8f01b9ae6.jpeg",
+    "static/media/music.jpg": "/static/media/music.67ff9a7c120135982e4f.jpg",
+    "static/media/Vision Kumar Reddy Resume.pdf": "/static/media/Vision Kumar Reddy Resume.7cffd9313d08d09af8a4.pdf",
+    "static/media/profileBW.jpg": "/static/media/profileBW.41f4366a23e06f8a88bc.jpg",
+    "static/media/facerec.png": "/static/media/facerec.60e4c6b06bbf58150c0e.png",
+    "static/media/project1.webp": "/static/media/project1.f2c54a35bc5d07af37ea.webp",
+    "static/media/mylogo.png": "/static/media/mylogo.7ca5e6ed0617a9685c5a.png",
+    "index.html": "/index.html",
+    "main.f4788a9f.css.map": "/static/css/main.f4788a9f.css.map",
+    "main.b3717c88.js.map": "/static/js/main.b3717c88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4788a9f.css",
+    "static/js/main.b3717c88.js"
+  ]
+}
