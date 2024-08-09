@@ -19,7 +19,7 @@ export const projectsData = [
         category: "Webpages",
     },
     {
-        id: 3,
+        id: 4,
         image: Project2,
         title: "Alzheimer's disease Detection",
         url:"https://github.com/vision-01/Alzheimer-s-disease-prediction-using-deep-learning",
