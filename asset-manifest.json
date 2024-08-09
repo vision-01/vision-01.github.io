@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vision-01.github.io/static/css/main.a46a5778.css",
-    "main.js": "/vision-01.github.io/static/js/main.93e6cd67.js",
+    "main.js": "/vision-01.github.io/static/js/main.148b5f77.js",
     "static/media/alz.jpeg": "/vision-01.github.io/static/media/alz.a6d33de3e0b8f01b9ae6.jpeg",
     "static/media/music.jpg": "/vision-01.github.io/static/media/music.67ff9a7c120135982e4f.jpg",
     "static/media/Vision Kumar Reddy Resume.pdf": "/vision-01.github.io/static/media/Vision Kumar Reddy Resume.7cffd9313d08d09af8a4.pdf",
@@ -11,10 +11,10 @@
     "static/media/mylogo.png": "/vision-01.github.io/static/media/mylogo.7ca5e6ed0617a9685c5a.png",
     "index.html": "/vision-01.github.io/index.html",
     "main.a46a5778.css.map": "/vision-01.github.io/static/css/main.a46a5778.css.map",
-    "main.93e6cd67.js.map": "/vision-01.github.io/static/js/main.93e6cd67.js.map"
+    "main.148b5f77.js.map": "/vision-01.github.io/static/js/main.148b5f77.js.map"
   },
   "entrypoints": [
     "static/css/main.a46a5778.css",
-    "static/js/main.93e6cd67.js"
+    "static/js/main.148b5f77.js"
   ]
 }
